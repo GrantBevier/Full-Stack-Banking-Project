@@ -1,19 +1,33 @@
 # Full-Stack-Banking-Project
 
 ## Project Description
-Here goes your awesome project description!
+Full-stack Banking application with a Java back-end and web-based front-end
 
 ## Technologies Used
-Tech 1 - version 1.0
-Tech 2 - version 2.0
-Tech 3 - version 3.0
+Java 8
+PostgreSQL
+HTML 5
+CSS 3
+JavaScript
+Javalin
+Log4j
 
 ## Features
-List of features ready and TODOs for future development
+* Login
+* Deposit/Withdraw funds
+* Approve/Deny Account requests
+* Persistent local external transaction log
 
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+## To-Do
+Logout feature
+Cookies/tokens/sessions
+Internal account creation
+	User-provided starting balance
+		Minimum provided starting balance
+Internal transaction log viewer (customer and employee) (currently only external)
+Enhanced front-end error handling/user feedback
+Enhanced visual design
+Employee ability to freeze accounts
 
 ## License
-This project uses the following license: <license_name>.
+This project uses the following license: wtfpl.
