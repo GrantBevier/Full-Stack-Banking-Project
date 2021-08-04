@@ -1,14 +1,14 @@
 ## Full-Stack-Banking-Project
 
-#Project Description
+# Project Description
 Here goes your awesome project description!
 
-#Technologies Used
+# Technologies Used
 Tech 1 - version 1.0
 Tech 2 - version 2.0
 Tech 3 - version 3.0
 
-#Features
+# Features
 List of features ready and TODOs for future development
 
 Awesome feature 1
