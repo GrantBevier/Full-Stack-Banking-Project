@@ -1,0 +1,215 @@
+INFO	2021-07-16 08:27:39,466	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 08:27:47,037	1	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 08:47:48,114	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 08:50:35,768	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 08:52:56,933	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 08:53:17,313	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 08:53:49,967	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 08:53:59,416	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 08:54:12,924	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 08:55:12,081	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 08:55:23,931	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 08:55:48,988	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 08:57:35,197	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 08:58:21,131	45934	com.revature.MainDriver	[qtp1647809929-19]	selectUserByAllCredentials() successful in UserDAOImpl
+INFO	2021-07-16 08:58:25,665	50468	com.revature.MainDriver	[qtp1647809929-21]	selectEmployee() successful in UserDAOImpl
+INFO	2021-07-16 09:00:32,087	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:00:43,462	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:01:52,717	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:01:58,442	5725	com.revature.MainDriver	[qtp1647809929-16]	selectUserByAllCredentials() successful in UserDAOImpl
+INFO	2021-07-16 09:02:04,794	12077	com.revature.MainDriver	[qtp1647809929-16]	selectUserByAllCredentials() successful in UserDAOImpl
+INFO	2021-07-16 09:02:17,910	25193	com.revature.MainDriver	[qtp1647809929-16]	selectUserByAllCredentials() successful in UserDAOImpl
+INFO	2021-07-16 09:02:18,035	25318	com.revature.MainDriver	[qtp1647809929-21]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:13:57,510	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:14:46,774	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:14:59,006	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:15:09,806	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:19:33,296	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:21:16,590	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:21:40,156	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:21:57,853	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:22:23,522	1	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:22:26,748	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:23:06,163	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:23:24,893	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:23:38,640	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:24:20,237	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:24:28,250	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:25:03,071	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:25:17,003	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:25:44,819	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:26:01,959	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:26:09,992	8033	com.revature.MainDriver	[qtp1647809929-15]	selectUserByAllCredentials() successful in UserDAOImpl
+INFO	2021-07-16 09:26:10,112	8153	com.revature.MainDriver	[qtp1647809929-19]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:26:30,233	28274	com.revature.MainDriver	[qtp1647809929-21]	selectUserById() successful in UserDAOImpl
+WARN	2021-07-16 09:26:30,267	28308	com.revature.MainDriver	[qtp1647809929-21]	SQLException in UserDAOImpl
+INFO	2021-07-16 09:26:30,267	28308	com.revature.MainDriver	[qtp1647809929-21]	updateUserCheckingBalance() successful in UserDAOImpl
+INFO	2021-07-16 09:26:30,390	28431	com.revature.MainDriver	[qtp1647809929-19]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:27:04,009	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:27:28,839	24830	com.revature.MainDriver	[qtp1647809929-17]	selectEmployee() successful in UserDAOImpl
+INFO	2021-07-16 09:27:37,177	33168	com.revature.MainDriver	[qtp1647809929-21]	selectEmployee() successful in UserDAOImpl
+INFO	2021-07-16 09:27:37,288	33279	com.revature.MainDriver	[qtp1647809929-19]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:27:37,293	33284	com.revature.MainDriver	[qtp1647809929-16]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:28:55,450	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:29:04,027	8577	com.revature.MainDriver	[qtp1647809929-18]	selectEmployee() successful in UserDAOImpl
+INFO	2021-07-16 09:29:04,149	8699	com.revature.MainDriver	[qtp1647809929-19]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:29:04,154	8704	com.revature.MainDriver	[qtp1647809929-15]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:29:23,747	28297	com.revature.MainDriver	[qtp1647809929-21]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:29:23,751	28301	com.revature.MainDriver	[qtp1647809929-16]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:29:24,500	29050	com.revature.MainDriver	[qtp1647809929-19]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:29:24,503	29053	com.revature.MainDriver	[qtp1647809929-18]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:29:24,747	29297	com.revature.MainDriver	[qtp1647809929-16]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:29:24,750	29300	com.revature.MainDriver	[qtp1647809929-21]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:29:24,930	29480	com.revature.MainDriver	[qtp1647809929-18]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:29:24,933	29483	com.revature.MainDriver	[qtp1647809929-19]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:29:25,044	29594	com.revature.MainDriver	[qtp1647809929-21]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:29:25,150	29700	com.revature.MainDriver	[qtp1647809929-16]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:29:25,190	29740	com.revature.MainDriver	[qtp1647809929-19]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:29:25,192	29742	com.revature.MainDriver	[qtp1647809929-14]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:29:31,235	35785	com.revature.MainDriver	[qtp1647809929-21]	selectEmployee() successful in UserDAOImpl
+INFO	2021-07-16 09:29:31,346	35896	com.revature.MainDriver	[qtp1647809929-16]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:29:31,350	35900	com.revature.MainDriver	[qtp1647809929-19]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:29:48,284	52834	com.revature.MainDriver	[qtp1647809929-20]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:29:48,287	52837	com.revature.MainDriver	[qtp1647809929-21]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:29:48,423	52973	com.revature.MainDriver	[qtp1647809929-16]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:29:48,427	52977	com.revature.MainDriver	[qtp1647809929-19]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:29:48,575	53125	com.revature.MainDriver	[qtp1647809929-20]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:29:48,577	53127	com.revature.MainDriver	[qtp1647809929-21]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:29:48,695	53245	com.revature.MainDriver	[qtp1647809929-16]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:29:48,796	53346	com.revature.MainDriver	[qtp1647809929-19]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:30:08,096	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:30:18,996	10900	com.revature.MainDriver	[qtp1647809929-15]	selectEmployee() successful in UserDAOImpl
+INFO	2021-07-16 09:30:19,117	11021	com.revature.MainDriver	[qtp1647809929-19]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:30:19,119	11023	com.revature.MainDriver	[qtp1647809929-17]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:30:31,161	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:30:40,133	8972	com.revature.MainDriver	[qtp1647809929-15]	selectUserByAllCredentials() successful in UserDAOImpl
+INFO	2021-07-16 09:30:47,110	15949	com.revature.MainDriver	[qtp1647809929-21]	selectUserByAllCredentials() successful in UserDAOImpl
+INFO	2021-07-16 09:30:54,304	23143	com.revature.MainDriver	[qtp1647809929-21]	selectEmployee() successful in UserDAOImpl
+INFO	2021-07-16 09:30:54,416	23255	com.revature.MainDriver	[qtp1647809929-18]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:30:54,422	23261	com.revature.MainDriver	[qtp1647809929-17]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:33:44,342	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:33:52,393	8051	com.revature.MainDriver	[qtp1647809929-18]	selectEmployee() successful in UserDAOImpl
+INFO	2021-07-16 09:33:52,516	8174	com.revature.MainDriver	[qtp1647809929-19]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:33:52,520	8178	com.revature.MainDriver	[qtp1647809929-15]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:34:34,955	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:34:42,568	7613	com.revature.MainDriver	[qtp1647809929-15]	selectEmployee() successful in UserDAOImpl
+INFO	2021-07-16 09:34:42,689	7734	com.revature.MainDriver	[qtp1647809929-16]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:34:42,693	7738	com.revature.MainDriver	[qtp1647809929-19]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:36:07,952	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:36:53,729	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:37:06,274	1	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:37:20,356	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:37:31,847	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:38:15,096	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:38:28,456	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:38:39,145	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:38:56,338	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:39:32,276	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:39:49,886	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:42:50,417	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:43:56,356	65939	com.revature.MainDriver	[qtp1647809929-20]	selectEmployee() successful in UserDAOImpl
+INFO	2021-07-16 09:43:56,488	66071	com.revature.MainDriver	[qtp1647809929-21]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:43:56,490	66073	com.revature.MainDriver	[qtp1647809929-14]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:44:09,912	79495	com.revature.MainDriver	[qtp1647809929-19]	selectApplicationById() successful in UserDAOImpl
+INFO	2021-07-16 09:44:09,962	79545	com.revature.MainDriver	[qtp1647809929-19]	removeUserApplication() successful in UserDAOImpl
+INFO	2021-07-16 09:44:09,962	79545	com.revature.MainDriver	[qtp1647809929-19]	acceptUserApplication() successful in UserDAOImpl
+INFO	2021-07-16 09:44:10,068	79651	com.revature.MainDriver	[qtp1647809929-21]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:44:10,073	79656	com.revature.MainDriver	[qtp1647809929-16]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:44:30,288	99871	com.revature.MainDriver	[qtp1647809929-17]	selectUserByAllCredentials() successful in UserDAOImpl
+INFO	2021-07-16 09:44:30,412	99995	com.revature.MainDriver	[qtp1647809929-16]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:45:04,477	134060	com.revature.MainDriver	[qtp1647809929-15]	selectUserById() successful in UserDAOImpl
+WARN	2021-07-16 09:45:04,512	134095	com.revature.MainDriver	[qtp1647809929-15]	SQLException in UserDAOImpl
+INFO	2021-07-16 09:45:04,512	134095	com.revature.MainDriver	[qtp1647809929-15]	updateUserCheckingBalance() successful in UserDAOImpl
+INFO	2021-07-16 09:45:04,655	134238	com.revature.MainDriver	[qtp1647809929-19]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:45:14,303	143886	com.revature.MainDriver	[qtp1647809929-17]	selectUserById() successful in UserDAOImpl
+WARN	2021-07-16 09:45:14,330	143913	com.revature.MainDriver	[qtp1647809929-17]	SQLException in UserDAOImpl
+INFO	2021-07-16 09:45:14,330	143913	com.revature.MainDriver	[qtp1647809929-17]	updateUserSavingsBalance() successful in UserDAOImpl
+INFO	2021-07-16 09:45:14,439	144022	com.revature.MainDriver	[qtp1647809929-19]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:45:28,402	157985	com.revature.MainDriver	[qtp1647809929-17]	selectUserById() successful in UserDAOImpl
+WARN	2021-07-16 09:45:28,428	158011	com.revature.MainDriver	[qtp1647809929-17]	SQLException in UserDAOImpl
+INFO	2021-07-16 09:45:28,428	158011	com.revature.MainDriver	[qtp1647809929-17]	updateUserCheckingBalance() successful in UserDAOImpl
+INFO	2021-07-16 09:45:28,549	158132	com.revature.MainDriver	[qtp1647809929-19]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:45:40,869	170452	com.revature.MainDriver	[qtp1647809929-17]	selectUserById() successful in UserDAOImpl
+WARN	2021-07-16 09:45:40,895	170478	com.revature.MainDriver	[qtp1647809929-17]	SQLException in UserDAOImpl
+INFO	2021-07-16 09:45:40,895	170478	com.revature.MainDriver	[qtp1647809929-17]	updateUserPhoneNumber() successful in UserDAOImpl
+INFO	2021-07-16 09:45:41,016	170599	com.revature.MainDriver	[qtp1647809929-19]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:45:45,953	175536	com.revature.MainDriver	[qtp1647809929-17]	selectUserById() successful in UserDAOImpl
+WARN	2021-07-16 09:45:45,978	175561	com.revature.MainDriver	[qtp1647809929-17]	SQLException in UserDAOImpl
+INFO	2021-07-16 09:45:45,978	175561	com.revature.MainDriver	[qtp1647809929-17]	updateUserEmailAddress() successful in UserDAOImpl
+INFO	2021-07-16 09:45:46,094	175677	com.revature.MainDriver	[qtp1647809929-19]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:47:13,973	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:47:44,444	30471	com.revature.MainDriver	[qtp1647809929-14]	selectEmployee() successful in UserDAOImpl
+INFO	2021-07-16 09:47:44,569	30596	com.revature.MainDriver	[qtp1647809929-16]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:47:44,574	30601	com.revature.MainDriver	[qtp1647809929-17]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:47:58,662	44689	com.revature.MainDriver	[qtp1647809929-19]	selectApplicationById() successful in UserDAOImpl
+INFO	2021-07-16 09:47:58,713	44740	com.revature.MainDriver	[qtp1647809929-19]	removeUserApplication() successful in UserDAOImpl
+INFO	2021-07-16 09:47:58,713	44740	com.revature.MainDriver	[qtp1647809929-19]	acceptUserApplication() successful in UserDAOImpl
+INFO	2021-07-16 09:47:58,831	44858	com.revature.MainDriver	[qtp1647809929-16]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:47:58,836	44863	com.revature.MainDriver	[qtp1647809929-21]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:48:22,440	68467	com.revature.MainDriver	[qtp1647809929-14]	selectUserByAllCredentials() successful in UserDAOImpl
+INFO	2021-07-16 09:48:22,570	68597	com.revature.MainDriver	[qtp1647809929-21]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:48:48,347	94374	com.revature.MainDriver	[qtp1647809929-14]	selectUserById() successful in UserDAOImpl
+WARN	2021-07-16 09:48:48,380	94407	com.revature.MainDriver	[qtp1647809929-14]	SQLException in UserDAOImpl
+INFO	2021-07-16 09:48:48,380	94407	com.revature.MainDriver	[qtp1647809929-14]	updateUserCheckingBalance() successful in UserDAOImpl
+INFO	2021-07-16 09:48:48,503	94530	com.revature.MainDriver	[qtp1647809929-16]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:48:50,986	97013	com.revature.MainDriver	[qtp1647809929-14]	selectUserById() successful in UserDAOImpl
+WARN	2021-07-16 09:48:51,013	97040	com.revature.MainDriver	[qtp1647809929-14]	SQLException in UserDAOImpl
+INFO	2021-07-16 09:48:51,013	97040	com.revature.MainDriver	[qtp1647809929-14]	updateUserSavingsBalance() successful in UserDAOImpl
+INFO	2021-07-16 09:48:51,125	97152	com.revature.MainDriver	[qtp1647809929-16]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:48:55,609	101636	com.revature.MainDriver	[qtp1647809929-14]	selectUserById() successful in UserDAOImpl
+WARN	2021-07-16 09:48:55,635	101662	com.revature.MainDriver	[qtp1647809929-14]	SQLException in UserDAOImpl
+INFO	2021-07-16 09:48:55,635	101662	com.revature.MainDriver	[qtp1647809929-14]	updateUserCheckingBalance() successful in UserDAOImpl
+INFO	2021-07-16 09:48:55,745	101772	com.revature.MainDriver	[qtp1647809929-16]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:49:09,056	115083	com.revature.MainDriver	[qtp1647809929-14]	selectUserById() successful in UserDAOImpl
+WARN	2021-07-16 09:49:09,080	115107	com.revature.MainDriver	[qtp1647809929-14]	SQLException in UserDAOImpl
+INFO	2021-07-16 09:49:09,080	115107	com.revature.MainDriver	[qtp1647809929-14]	updateUserPhoneNumber() successful in UserDAOImpl
+INFO	2021-07-16 09:49:09,204	115231	com.revature.MainDriver	[qtp1647809929-16]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:49:16,697	122724	com.revature.MainDriver	[qtp1647809929-14]	selectUserById() successful in UserDAOImpl
+WARN	2021-07-16 09:49:16,722	122749	com.revature.MainDriver	[qtp1647809929-14]	SQLException in UserDAOImpl
+INFO	2021-07-16 09:49:16,722	122749	com.revature.MainDriver	[qtp1647809929-14]	updateUserEmailAddress() successful in UserDAOImpl
+INFO	2021-07-16 09:49:16,832	122859	com.revature.MainDriver	[qtp1647809929-16]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:58:21,540	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 09:58:46,902	25362	com.revature.MainDriver	[qtp1647809929-15]	selectEmployee() successful in UserDAOImpl
+INFO	2021-07-16 09:58:47,020	25480	com.revature.MainDriver	[qtp1647809929-20]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 09:58:47,026	25486	com.revature.MainDriver	[qtp1647809929-17]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 09:59:26,271	64731	com.revature.MainDriver	[qtp1647809929-14]	selectUserByAllCredentials() successful in UserDAOImpl
+INFO	2021-07-16 09:59:26,403	64863	com.revature.MainDriver	[qtp1647809929-21]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 10:07:11,613	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 10:07:32,872	21259	com.revature.MainDriver	[qtp1647809929-18]	selectEmployee() successful in UserDAOImpl
+INFO	2021-07-16 10:07:32,991	21378	com.revature.MainDriver	[qtp1647809929-17]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 10:07:32,996	21383	com.revature.MainDriver	[qtp1647809929-16]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 11:08:18,186	0	com.revature.MainDriver	[main]	Program started.
+INFO	2021-07-16 11:08:39,519	21333	com.revature.MainDriver	[qtp1647809929-17]	selectEmployee() successful in UserDAOImpl
+INFO	2021-07-16 11:08:39,666	21480	com.revature.MainDriver	[qtp1647809929-19]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 11:08:39,676	21490	com.revature.MainDriver	[qtp1647809929-18]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 11:08:51,233	33047	com.revature.MainDriver	[qtp1647809929-14]	selectApplicationById() successful in UserDAOImpl
+INFO	2021-07-16 11:08:51,288	33102	com.revature.MainDriver	[qtp1647809929-14]	removeUserApplication() successful in UserDAOImpl
+INFO	2021-07-16 11:08:51,288	33102	com.revature.MainDriver	[qtp1647809929-14]	acceptUserApplication() successful in UserDAOImpl
+INFO	2021-07-16 11:08:51,430	33244	com.revature.MainDriver	[qtp1647809929-19]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 11:08:51,438	33252	com.revature.MainDriver	[qtp1647809929-15]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 11:09:13,097	54911	com.revature.MainDriver	[qtp1647809929-17]	selectUserByAllCredentials() successful in UserDAOImpl
+INFO	2021-07-16 11:09:13,240	55054	com.revature.MainDriver	[qtp1647809929-15]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 11:09:30,736	72550	com.revature.MainDriver	[qtp1647809929-17]	selectUserById() successful in UserDAOImpl
+WARN	2021-07-16 11:09:30,772	72586	com.revature.MainDriver	[qtp1647809929-17]	SQLException in UserDAOImpl
+INFO	2021-07-16 11:09:30,772	72586	com.revature.MainDriver	[qtp1647809929-17]	updateUserCheckingBalance() successful in UserDAOImpl
+INFO	2021-07-16 11:09:30,907	72721	com.revature.MainDriver	[qtp1647809929-19]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 11:09:34,741	76555	com.revature.MainDriver	[qtp1647809929-17]	selectUserById() successful in UserDAOImpl
+WARN	2021-07-16 11:09:34,769	76583	com.revature.MainDriver	[qtp1647809929-17]	SQLException in UserDAOImpl
+INFO	2021-07-16 11:09:34,770	76584	com.revature.MainDriver	[qtp1647809929-17]	updateUserSavingsBalance() successful in UserDAOImpl
+INFO	2021-07-16 11:09:34,903	76717	com.revature.MainDriver	[qtp1647809929-19]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 11:09:41,124	82938	com.revature.MainDriver	[qtp1647809929-17]	selectUserById() successful in UserDAOImpl
+WARN	2021-07-16 11:09:41,151	82965	com.revature.MainDriver	[qtp1647809929-17]	SQLException in UserDAOImpl
+INFO	2021-07-16 11:09:41,151	82965	com.revature.MainDriver	[qtp1647809929-17]	updateUserCheckingBalance() successful in UserDAOImpl
+INFO	2021-07-16 11:09:41,290	83104	com.revature.MainDriver	[qtp1647809929-19]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 11:09:53,208	95022	com.revature.MainDriver	[qtp1647809929-17]	selectUserById() successful in UserDAOImpl
+WARN	2021-07-16 11:09:53,237	95051	com.revature.MainDriver	[qtp1647809929-17]	SQLException in UserDAOImpl
+INFO	2021-07-16 11:09:53,237	95051	com.revature.MainDriver	[qtp1647809929-17]	updateUserPhoneNumber() successful in UserDAOImpl
+INFO	2021-07-16 11:09:53,376	95190	com.revature.MainDriver	[qtp1647809929-19]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 11:09:59,072	100886	com.revature.MainDriver	[qtp1647809929-17]	selectUserById() successful in UserDAOImpl
+WARN	2021-07-16 11:09:59,103	100917	com.revature.MainDriver	[qtp1647809929-17]	SQLException in UserDAOImpl
+INFO	2021-07-16 11:09:59,103	100917	com.revature.MainDriver	[qtp1647809929-17]	updateUserEmailAddress() successful in UserDAOImpl
+INFO	2021-07-16 11:09:59,236	101050	com.revature.MainDriver	[qtp1647809929-19]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 11:10:39,402	141216	com.revature.MainDriver	[qtp1647809929-16]	selectEmployee() successful in UserDAOImpl
+INFO	2021-07-16 11:10:39,548	141362	com.revature.MainDriver	[qtp1647809929-17]	selectAllUsers() successful in UserDAOImpl
+INFO	2021-07-16 11:10:39,557	141371	com.revature.MainDriver	[qtp1647809929-19]	selectAllPendingApplications() successful in UserDAOImpl
+INFO	2021-07-16 12:10:09,565	3711379	com.revature.MainDriver	[qtp1647809929-15]	selectAllUsers() successful in UserDAOImpl

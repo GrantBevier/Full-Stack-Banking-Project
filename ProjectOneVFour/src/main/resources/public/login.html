@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<!-- CSS only -->
+<!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous"> -->
+<style>
+.form-group
+{
+margin: auto;
+width: 100%;
+padding: 5px;
+text-align: center;
+background-color: white;
+}
+
+.form-group-2
+{
+margin: auto;
+width: 100%;
+padding: 10px;
+text-align: center;
+background-color: white;
+}
+
+/*h1
+{
+margin: auto;
+width: 40%;
+padding: 10px;
+text-align: center;
+background-color: white;
+}*/
+
+.image
+{
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 40%;
+}
+
+div
+{
+  width: 200px;
+  border: 15px;
+  padding: 50px;
+  margin: 20px;
+}
+
+.mainbox
+{
+  width: 30%;
+  height: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+}
+
+#special
+{
+	margin-left: auto;
+	margin-right: auto;
+	padding: 15px;
+}
+
+body
+{
+  background-image: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwallpapercave.com%2Fwp%2Fwp3539891.jpg&f=1&nofb=1');
+}
+</style>
+</head>
+<body>
+<h1 class="form-group"> Welcome to Revature Bank! Please login.</h1>
+<!--<form action="login" method="POST">
+            <div class="form-group">
+            
+            	<input type="text" class="form-control" placeholder = "user id" name="userID">
+                <input type="text" class="form-control" placeholder = "username" name="username">
+                <input type="password" class="form-control" placeholder = "password" name="password">
+                
+            <button type="submit" class="btn btn-primary">Login!</button>
+            </div>
+            
+</form>-->
+	<div class="mainbox">
+		<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.eou.edu%2Fwp-content%2Fuploads%2F2017%2F11%2Frev-logo-2-1024x1024.png&f=1&nofb=1" alt="Revature Bank logo" class="image">
+        <form action="login" method="POST">
+        	<div class="form-group">
+    			<label for="exampleUserID">User ID:</label>
+    			<input type="text" placeholder="user ID" name="userID">
+  			</div>
+  			<div class="form-group">
+    			<label for="exampleUsername">Username:</label>
+    			<input type="text" placeholder="username" name="username">
+  			</div>
+  			<div class="form-group">
+    			<label for="examplePassword">Password:</label>
+    			<input type="password" placeholder="password" name="password">
+    			<!--<small id="passwordHelp" class="form-text text-muted">Keep your passwords safe! Revature employees will never ask for your password.</small>-->
+  			</div>
+  			<div class="form-group-2">
+    			<input type="checkbox" class="form-check-input" id="exampleCheck1" name="employeeLogin">
+    			<label class="form-check-label" for="exampleCheck1">Employee Login</label>
+    			<button margin= auto type="submit" class="form-group" id="special">Login</button>
+  			</div>
+		</form>
+	</div>
+</body>
+</html>
