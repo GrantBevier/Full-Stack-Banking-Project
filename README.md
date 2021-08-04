@@ -11,12 +11,9 @@ Tech 3 - version 3.0
 ## Features
 List of features ready and TODOs for future development
 
-Awesome feature 1
-Awesome feature 2
-Awesome feature 3
-
-## Contributors
-Here list the people who have contributed to this project. (ignore this section, if its a solo project)
+* Awesome feature 1
+* Awesome feature 2
+* Awesome feature 3
 
 ## License
 This project uses the following license: <license_name>.
